@@ -25,3 +25,11 @@ Provides comprehensive information about file systems in operating systems.
 <br>
 <hr>
 
+## Week 04
+* [Difference Between Logical and Physical Address](https://www.tutorialspoint.com/difference-between-logical-and-physical-address-in-operating-system) ---
+This link is about explaining the difference between logical and physical addresses in an operating system.
+
+* [Paging](https://unstop.com/blog/what-is-paging-in-os/) ---
+This link is about describing the concept of paging in an operating system.
+<br>
+<hr>
