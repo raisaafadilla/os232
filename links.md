@@ -33,3 +33,12 @@ This link is about explaining the difference between logical and physical addres
 This link is about describing the concept of paging in an operating system.
 <br>
 <hr>
+
+## Week 05
+* [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) ---
+Memory is a crucial component in a computer system, serving as a repository for data and program instructions, and efficient memory management is essential for proper program execution and multiprogramming.
+
+* [Memory](https://www.computerhope.com/jargon/m/memory.htm) ---
+Provides information and definitions related to computer memory.
+<br>
+<hr>

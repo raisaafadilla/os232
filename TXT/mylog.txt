@@ -1,3 +1,10 @@
+ZCZC W05 120 L02 CLASSROOM related
+ZCZC W05 45 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 10 L05 QUIZ
+ZCZC W05 45 L14 Assignment #05
+ZCZC W05 15 L01 SCELE related
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull 
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 15 L01 SCELE related
 ZCZC W04 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friends.
