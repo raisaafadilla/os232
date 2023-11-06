@@ -42,3 +42,12 @@ Memory is a crucial component in a computer system, serving as a repository for 
 Provides information and definitions related to computer memory.
 <br>
 <hr>
+
+## Week 06
+* [Process in Operating System](https://www.javatpoint.com/what-is-the-process-in-operating-system) ---
+Explains the concept of processes in an operating system, detailing their definition, creation, and management within the system's environment.
+
+* [Fork](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) ---
+The article discusses the 'fork' system call in operating systems.
+<br>
+<hr>
