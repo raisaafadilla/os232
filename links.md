@@ -51,3 +51,12 @@ Explains the concept of processes in an operating system, detailing their defini
 The article discusses the 'fork' system call in operating systems.
 <br>
 <hr>
+
+## Week 07
+* [OS Process Synchronization Introduction](https://www.javatpoint.com/os-process-synchronization-introduction) ---
+Provides the introduction to synchronization in the operating system.
+
+* [Deadlock, Livelock and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation) ---
+This article explains the concepts of Deadlock, Livelock and Starvation.
+<br>
+<hr>
