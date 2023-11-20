@@ -60,3 +60,9 @@ Provides the introduction to synchronization in the operating system.
 This article explains the concepts of Deadlock, Livelock and Starvation.
 <br>
 <hr>
+
+## Week 08
+* [How to build LFS Chapter 5](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+This video really helped me in completing assignment 3.
+<br>
+<hr>
