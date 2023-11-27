@@ -66,3 +66,9 @@ This article explains the concepts of Deadlock, Livelock and Starvation.
 This video really helped me in completing assignment 3.
 <br>
 <hr>
+
+## Week 09
+* [Chroot](https://www.youtube.com/watch?v=2wSJREC7RV8) ---
+This video explains root directory constraints and demonstrates using chroot to run Ubuntu with limited access to external resources. It's an informative and instructional watch.
+<br>
+<hr>
