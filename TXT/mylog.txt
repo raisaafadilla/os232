@@ -1,3 +1,8 @@
+ZCZC W10 30 L01 SCELE related
+ZCZC W10 300 L14 Assignment #10
+ZCZC W10 150 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 15 L05 QUIZ
+ZCZC W10 15 L03 GitHub and git related, including commit, push, pull
 ZCZC W09 30 L01 SCELE related
 ZCZC W09 300 L14 Assignment #09
 ZCZC W09 150 L06 References/Books/Documents/Browsing/GSGS related
